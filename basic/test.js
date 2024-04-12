@@ -1,9 +1,20 @@
-console.log("prachi")
-let score = 67;
-console.log(score);
-const scores = 76;
-console.log(scores)
-let value = 20 + 10;
-let result = String(value);
-console.log(result); // prints ‘30’
-console.log(typeof result); // prints string
+const accountId = 987;
+let accountEmail = "mauryaprachi6998@gmail";
+var accountpassword = "7657657";
+city = "delhi";
+
+
+// accountId = 567;
+
+accountpassword = 65545;
+accountEmail = "prachimaury56@gmail";
+city = "jaipur";
+
+// console.log(accountId);
+// console.log(accountpassword)
+// console.log(accountEmail)
+// console.log(city)
+
+console.log([accountEmail,accountpassword,city])
+
+
